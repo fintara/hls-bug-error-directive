@@ -18,6 +18,7 @@ common warnings
 executable hls-bug-error-directive
     import:           warnings
     main-is:          Main.hs
+    other-modules:    Another
     -- other-modules:
     -- other-extensions:
     build-depends:    base ^>=4.16.4.0
